@@ -1,5 +1,7 @@
 # 日记 (Rìjì)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pepebecker/riji.svg)](https://greenkeeper.io/)
+
 [![MIT-licensed](https://img.shields.io/github/license/pepebecker/riji.svg)](https://opensource.org/licenses/MIT)
 [![chat on gitter](https://badges.gitter.im/pepebecker.svg)](https://gitter.im/pepebecker)
 
